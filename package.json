@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "@itentialopensource/adapter-utils": "4.30.0"
+    "@itentialopensource/adapter-utils": "4.30.3"
   },
   "renovate": {}
 }
